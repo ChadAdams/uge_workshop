@@ -1,0 +1,69 @@
+subl moving_around.txt
+ll
+history >> moving_around.txt - append history to file moving_around.txt
+history > moving_around.txt - send history to new file moving_around.txt
+man vi
+vi moving_around.txt - text editor from hell
+less moving_around.txt
+nano moving_around.txt - another text editor
+cat moving_around.txt - concatonate
+cd
+history | sort | less - sorts the history alphabetically and then shows by page
+history | less - shows history page by page
+history - shows all terminal history
+clear - clears screen
+ls -a
+cd ..
+ls
+cd Templates/
+cd Pictures/
+cd Music/
+cd .
+cd..
+cd Documents/
+pwd
+ls --help
+man ls - man pages for ls
+ls -1
+ls -ltu
+ls -ls
+ls -s
+ls -lsc
+ls -c
+ls -lt
+ls -ltC
+ls -lC
+ls -lrt
+ls -rt
+ls -r
+ls -l
+ls -t
+cd /
+/* Part of the prework
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'cradams@yahoo.com'
+git config --global user.name 'Chad Adams'
+git --version
+sudo apt-get install -y git
+echo $PATH
+echo $pa
+echo $EDITOR
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+sudo apt-get check
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+sudo apt-get install ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-add-repository -y ppa:fish-shell/release-2
+ls -G
+curl -fsSL http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+uname
+sudo apt-get install git
+****End of Prework***/
