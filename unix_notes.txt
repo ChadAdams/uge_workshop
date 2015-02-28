@@ -1,3 +1,5 @@
+"subl ." opens the project in the relative folder
+
 subl moving_around.txt
 ll
 history >> moving_around.txt - append history to file moving_around.txt
